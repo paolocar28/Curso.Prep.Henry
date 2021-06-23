@@ -1,0 +1,7 @@
+homework 02-js-I
+variable: le va a dar un nombre a un espacio donde se van a introducir datos
+strings: son los datos que vamos a introducir 
+funciones: son las ordenes que le vamos a dar a la computadora para que haga con los datos que pusimos como stings y variables
+declaraciones if: le vamos a decir que si con los datos que metimos pasa tal cosa "a" te tire un resultado x, y si pasa tal
+cosa "b" tire otro resulado y.
+valores booleanos: son resultados falsos o verdaderos, segun le digamos que responder antes una operacion que programemos
