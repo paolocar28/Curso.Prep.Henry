@@ -1,0 +1,10 @@
+homework 03-js-II
+for: es una declaracion que nos va a permitir repetir datos y funciones, segun nosotros la configuremos, 
+diciendole desde donde empezar, donde terminar, como avanzar si es que queres avanzar y segun que requisitos 
+querramos que cumpla los datos.
+&&: se llama Y, esta va a decirnos si dos datos que ingresamos cumplen las condiciones de true(verdadero) y false(falso)
+siendo true && true el unico caso true; t && f, f && T, F && F son false.
+||: es o, al contrario que &&, permite que cuando se cumpla solo una de las declariones sean true el resultado sean true,
+por lo tanto T||T, F||T, t||F son true y la unica flase seria F||F.
+!: significa NOT, por lo tanto si a algo true le agregamos !, diriamos !true (NOT true), osea falso, podemos usarlas cuantas veces
+queramos en una misma declaracion, ya que una convierte a la otra, siendo !!true= true
