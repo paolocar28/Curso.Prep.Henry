@@ -1,0 +1,4 @@
+arrays
+los arrays son listas que podemos crear separadas con comas, 
+en estas listas podemos meter numeros, strings, booleanos, null, undefined y funciones.
+podemos agregar, sacar, imprimir, y modificar tanto como necesitemos.
