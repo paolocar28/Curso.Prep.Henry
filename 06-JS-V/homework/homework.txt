@@ -1,0 +1,5 @@
+prototype: es informacion o funcion que ya viene seteadad de antes en alguna propiedad string, etc. cuando solicitamos algo 
+de algun objeto o array, primero va a verificar entre las funciones y datos que ingresamos, y por ultimo va a buscar en el prototype
+principal que no esta visible.
+Constructors (de Clases): son la distintas formas en que vamos poder crear una clase, que las clases son la manera general que 
+determinamos informacion para un grupo de objetos.
