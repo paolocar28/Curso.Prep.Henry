@@ -1,0 +1,9 @@
+homework
+Objetos: es como un array (o lista) pero nos permite dentro de la lista asignar un nombre y su descripcion, entonces podriamos 
+poner la cantidad de elementos y du descricion que querramos, en forma de lista; tambien podemos poner funciones, variables y arrrays
+propiedades: seria el nombre con el que vamos a identificar cada una de las descripciones, ejemplo "edad", "nombre",'correo', etc.
+metodos: metodos son funciones que guardamos dentro de estos objetos(listas)
+bucle for..in 
+Notación de puntos vs notación de corchetes: con notacion de puntos, vamos a poder referir o llamar a un objeto y propiedad
+solo con poner un punto, pero tiene que ser exactamente el nombre de la propiedad y objeto. 
+con la notacion de corchetes: podemos ir a la propiedad o llamar a alguna variable inclusive que lleve a esa propiedad

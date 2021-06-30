@@ -1,21 +1,22 @@
 h1 {color: blue;
 display: flex;
-justify-content: center;}
-img{width: 400px}
+justify-content: center;
+}
+img{width: 400px
+}
 #thirdDiv{width:500px;
 height:600px;
 background-color: coral;
 padding: 50px;
 border: 20px ridge darkgreen;
 }
-.spanID{font-size: 18px;
-margin: 50px;
+#spanID{font-size: 18px;
 }
 div{
     width: 600px;
     margin: 0 auto; 
-  }
-*{display: flex;
+}
+*{
 flex-direction: column;
 justify-content: center;
 
